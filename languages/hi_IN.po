@@ -1,0 +1,2601 @@
+# Translation of
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: Pinterest Pin It Button On Image Hover And In Post\n"
+"Report-Msgid-Bugs-To: BUG-EMAIL-ADDR <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2019-10-31 13:33+0530\n"
+"PO-Revision-Date: 2019-10-31 13:33+0530\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: _e;_;__;esc_attr;esc_html;esc_url;esc_attr_e;"
+"esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Last-Translator: \n"
+"Language: hi_IN\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: exclude-images.php:3
+msgid ""
+"To Exclude the image(s) from Pin Button On Image Hover. Please add image(s) "
+"URL below:"
+msgstr ""
+
+#: exclude-images.php:4
+msgid "Provide Image SRC URL"
+msgstr ""
+
+#: exclude-images.php:6
+msgid "Add"
+msgstr ""
+
+#: exclude-images.php:8
+msgid "Note"
+msgstr ""
+
+#: exclude-images.php:8
+msgid "Refresh the page to see new added URLs."
+msgstr ""
+
+#: exclude-images.php:8
+msgid "Refesh"
+msgstr ""
+
+#: pinterest-pin-It-button.php:205 settings.php:158 settings.php:270
+msgid "Settings"
+msgstr ""
+
+#: recommendations.php:107
+msgid "More Details"
+msgstr ""
+
+#: recommendations.php:118
+msgid "Install Now"
+msgstr ""
+
+#: recommendations.php:125
+msgid "Update Now"
+msgstr ""
+
+#: recommendations.php:242
+msgid "Last Updated:"
+msgstr ""
+
+#: recommendations.php:256
+msgid "Incompatible with your version of WordPress"
+msgstr ""
+
+#: recommendations.php:258
+msgid "Compatible with your version of WordPress"
+msgstr ""
+
+#: settings.php:151
+msgid "Pin It Button Settings"
+msgstr ""
+
+#: settings.php:153
+msgid "Configure Plugin Settings Here"
+msgstr ""
+
+#: settings.php:159
+msgid "Exclude Images"
+msgstr ""
+
+#: settings.php:160
+msgid "Plugin Recommendation"
+msgstr ""
+
+#: settings.php:161
+msgid "Our Products"
+msgstr ""
+
+#: settings.php:162
+msgid "Need Help"
+msgstr ""
+
+#: settings.php:173 settings.php:186 settings.php:199 settings.php:212
+msgid "Show Pin It Button"
+msgstr ""
+
+#: settings.php:173
+msgid "In Post"
+msgstr ""
+
+#: settings.php:180 settings.php:193 settings.php:206 settings.php:219
+msgid "Yes"
+msgstr ""
+
+#: settings.php:181 settings.php:194 settings.php:207 settings.php:220
+msgid "No"
+msgstr ""
+
+#: settings.php:186
+msgid "In Page"
+msgstr ""
+
+#: settings.php:199
+msgid "On Image Hover"
+msgstr ""
+
+#: settings.php:212
+msgid "On Mobile / Portable Devices"
+msgstr ""
+
+#: settings.php:240
+msgid "Pin It Button Color (On Image Hover)"
+msgstr ""
+
+#: settings.php:256
+msgid "Pin It Button Size (On Image Hover)"
+msgstr ""
+
+#: settings.php:264
+msgid "Small"
+msgstr ""
+
+#: settings.php:265
+msgid "Large"
+msgstr ""
+
+msgid "Settings Tab"
+msgstr ""
+
+msgid "Pinterest PinIt Button Settings"
+msgstr ""
+
+msgid "Pinterest PinIt Button"
+msgstr ""
+
+msgid "<strong>Untested</strong> with your version of WordPress"
+msgstr ""
+
+msgid "User Name"
+msgstr ""
+
+msgid "Password"
+msgstr ""
+
+msgid "Contact Us:"
+msgstr ""
+
+msgid "Login Settings"
+msgstr ""
+
+msgid "Login from Floating"
+msgstr ""
+
+msgid "Left"
+msgstr ""
+
+msgid "Center"
+msgstr ""
+
+msgid "Right"
+msgstr ""
+
+msgid "Select Background"
+msgstr ""
+
+msgid "Select background"
+msgstr ""
+
+msgid "Static Background Color"
+msgstr ""
+
+msgid "Static Background Image"
+msgstr ""
+
+msgid "Background Color"
+msgstr ""
+
+msgid "Login Form Opacity"
+msgstr ""
+
+msgid "No media selected!"
+msgstr ""
+
+msgid "Upload"
+msgstr ""
+
+msgid "preview"
+msgstr ""
+
+msgid "Remove"
+msgstr ""
+
+msgid "Login Background Image"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "Background Repeat"
+msgstr ""
+
+msgid "No Repeat "
+msgstr ""
+
+msgid "Repeat"
+msgstr ""
+
+msgid "Repeat Horizontally"
+msgstr ""
+
+msgid "Repeat Vertically"
+msgstr ""
+
+msgid "Background Position "
+msgstr ""
+
+msgid "Left Top"
+msgstr ""
+
+msgid "Left Center"
+msgstr ""
+
+msgid "Left Bottom"
+msgstr ""
+
+msgid "Right Top"
+msgstr ""
+
+msgid "Right Center"
+msgstr ""
+
+msgid "Right Bottom"
+msgstr ""
+
+msgid "Center Top"
+msgstr ""
+
+msgid "Center Center"
+msgstr ""
+
+msgid "Center Bottom"
+msgstr ""
+
+msgid "Background Effect"
+msgstr ""
+
+msgid "Select overlay effect"
+msgstr ""
+
+msgid "No Overlay Effect"
+msgstr ""
+
+msgid "Overlay Effect 1"
+msgstr ""
+
+msgid "Overlay Effect 2"
+msgstr ""
+
+msgid "Overlay Effect 3"
+msgstr ""
+
+msgid "Login Form Width"
+msgstr ""
+
+msgid "Border Color"
+msgstr ""
+
+msgid "Border Radius"
+msgstr ""
+
+msgid "Border Style"
+msgstr ""
+
+msgid "None"
+msgstr ""
+
+msgid "Solid"
+msgstr ""
+
+msgid "Dotted"
+msgstr ""
+
+msgid "Dashed"
+msgstr ""
+
+msgid "Double"
+msgstr ""
+
+msgid "Border Thickness"
+msgstr ""
+
+msgid "Enable form shadow?"
+msgstr ""
+
+msgid "Form Shadow Color"
+msgstr ""
+
+msgid "Login "
+msgstr ""
+
+msgid "Setting Save Successfully"
+msgstr ""
+
+msgid "Setting Reset Successfully"
+msgstr ""
+
+msgid "Save Changes"
+msgstr ""
+
+msgid "Reset Default"
+msgstr ""
+
+msgid "Admin Custom Login"
+msgstr ""
+
+msgid "Powered By"
+msgstr ""
+
+msgid "Weblizar"
+msgstr ""
+
+msgid "Dashboard"
+msgstr ""
+
+msgid "Application overview"
+msgstr ""
+
+msgid "Background Design"
+msgstr ""
+
+msgid "Modify Background design here"
+msgstr ""
+
+msgid "Login form Setting"
+msgstr ""
+
+msgid "Modify Login design here"
+msgstr ""
+
+msgid "Font Setting"
+msgstr ""
+
+msgid "Modify Login Form Style here"
+msgstr ""
+
+msgid "Logo Settings"
+msgstr ""
+
+msgid "Customize Logo Settings here"
+msgstr ""
+
+msgid "Social Settings"
+msgstr ""
+
+msgid "Connect with your social profile"
+msgstr ""
+
+msgid "Help And Support"
+msgstr ""
+
+msgid "Ask your query"
+msgstr ""
+
+msgid "Admin Custom Login Dashboard"
+msgstr ""
+
+msgid "Admin Custom login Status"
+msgstr ""
+
+msgid "Disabled"
+msgstr ""
+
+msgid "Enable Custom Login"
+msgstr ""
+
+msgid "View Login Page"
+msgstr ""
+
+msgid "Dashboard "
+msgstr ""
+
+msgid "Background Settings"
+msgstr ""
+
+msgid "No background Selected"
+msgstr ""
+
+msgid "Background SlideShow"
+msgstr ""
+
+msgid "Preview"
+msgstr ""
+
+msgid "Cover or Strech"
+msgstr ""
+
+msgid "Background Attachment"
+msgstr ""
+
+msgid "Fixed"
+msgstr ""
+
+msgid "Scroll"
+msgstr ""
+
+msgid "Inherit"
+msgstr ""
+
+msgid "No. Of Background Slideshow"
+msgstr ""
+
+msgid "Select Number of Slide Show"
+msgstr ""
+
+msgid "2"
+msgstr ""
+
+msgid "3"
+msgstr ""
+
+msgid "4"
+msgstr ""
+
+msgid "5"
+msgstr ""
+
+msgid "6"
+msgstr ""
+
+msgid "Slider Animation"
+msgstr ""
+
+msgid "Slider Animation 1"
+msgstr ""
+
+msgid "Slider Animation 2"
+msgstr ""
+
+msgid "Slider Animation 3"
+msgstr ""
+
+msgid "Slider Animation 4"
+msgstr ""
+
+msgid "Top Background "
+msgstr ""
+
+msgid "Text And Color Settings"
+msgstr ""
+
+msgid "Headline Font Color"
+msgstr ""
+
+msgid "Input Font Color"
+msgstr ""
+
+msgid "Link Color"
+msgstr ""
+
+msgid "Button Color"
+msgstr ""
+
+msgid "Headline Font size"
+msgstr ""
+
+msgid "Input Font Size"
+msgstr ""
+
+msgid "Link Font Size"
+msgstr ""
+
+msgid "Button Font Size"
+msgstr ""
+
+msgid "Enable Link shadow?"
+msgstr ""
+
+msgid "Link Shadow Color"
+msgstr ""
+
+msgid "Headline Font Style"
+msgstr ""
+
+msgid "Input Font Style"
+msgstr ""
+
+msgid "Link Font Style"
+msgstr ""
+
+msgid "Button Font Style"
+msgstr ""
+
+msgid "Enable Input Box Icon?"
+msgstr ""
+
+msgid "Icon For user Input Box"
+msgstr ""
+
+msgid "Icon For Password Input Box"
+msgstr ""
+
+msgid "Text and Color "
+msgstr ""
+
+msgid "View Support Docs or Open a Ticket"
+msgstr ""
+
+msgid "Rate Us"
+msgstr ""
+
+msgid "Share Us Your Suggestion"
+msgstr ""
+
+msgid "Language Contribution "
+msgstr ""
+
+msgid "here is solution"
+msgstr ""
+
+msgid "Logo"
+msgstr ""
+
+msgid "Logo Width"
+msgstr ""
+
+msgid "Logo Height"
+msgstr ""
+
+msgid "Logo URL"
+msgstr ""
+
+msgid "Logo URL Title"
+msgstr ""
+
+msgid "Logo "
+msgstr ""
+
+msgid "Enable Social Icons"
+msgstr ""
+
+msgid "No Icon"
+msgstr ""
+
+msgid "Inner"
+msgstr ""
+
+msgid "Outer"
+msgstr ""
+
+msgid "Both"
+msgstr ""
+
+msgid "Social Media Icon Size"
+msgstr ""
+
+msgid "Medium"
+msgstr ""
+
+msgid "Social Media Icon Layout"
+msgstr ""
+
+msgid "Rectangle"
+msgstr ""
+
+msgid "Circle"
+msgstr ""
+
+msgid "Social Media Icon Color"
+msgstr ""
+
+msgid "Social Media Icon Color On Hover"
+msgstr ""
+
+msgid "Social Media Icon Background Color"
+msgstr ""
+
+msgid "Social Media Background Color On Hover"
+msgstr ""
+
+msgid "Social Profiles"
+msgstr ""
+
+msgid "Enter your social profiles complete url here"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Linkedin"
+msgstr ""
+
+msgid "google plus"
+msgstr ""
+
+msgid "Pinterest"
+msgstr ""
+
+msgid "Social "
+msgstr ""
+
+msgid "  Login Preview"
+msgstr ""
+
+msgid "Open Your WP Login Page in a New Tab"
+msgstr ""
+
+msgid "Background Noise"
+msgstr ""
+
+msgid "Noise"
+msgstr ""
+
+msgid "Overlay Effect"
+msgstr ""
+
+msgid "Full-Screen YouTube Background"
+msgstr ""
+
+msgid "Youtube Video Url"
+msgstr ""
+
+msgid "Top video url"
+msgstr ""
+
+msgid "Display Facebook Page Live Stream & Fans"
+msgstr ""
+
+msgid "Facebook Page URL"
+msgstr ""
+
+msgid "Widget Color Scheme"
+msgstr ""
+
+msgid "Show Widget Header"
+msgstr ""
+
+msgid "Show Faces"
+msgstr ""
+
+msgid "Show Live Stream"
+msgstr ""
+
+msgid "Widget Width"
+msgstr ""
+
+msgid "Widget Height"
+msgstr ""
+
+msgid "Facebook App ID"
+msgstr ""
+
+msgid "Required"
+msgstr ""
+
+msgid "Get Your Facebook App. Id"
+msgstr ""
+
+msgid "Shortcode Settings"
+msgstr ""
+
+msgid "Light Color Theme"
+msgstr ""
+
+msgid "Dark Color Theme"
+msgstr ""
+
+msgid "Get Your Own Facebook APP Id"
+msgstr ""
+
+msgid ""
+"Settings successfully saved. Reloading page for generating preview below."
+msgstr ""
+
+msgid "Select any time."
+msgstr ""
+
+msgid ""
+"Thank you for scheduling appointment with us.<br>A confirmation mail will be "
+"forward to you soon after admin approval."
+msgstr ""
+
+msgid "Select any service."
+msgstr ""
+
+msgid "Invalid name."
+msgstr ""
+
+msgid "Email required."
+msgstr ""
+
+msgid "Invalid Email."
+msgstr ""
+
+msgid "Phone required."
+msgstr ""
+
+msgid "Invalid phone number."
+msgstr ""
+
+msgid "Schedule New Appointment"
+msgstr ""
+
+msgid ""
+"Thank you for scheduling appointment with us. A confirmation mail will be "
+"sent to you soon after admin approval."
+msgstr ""
+
+msgid "Click Here"
+msgstr ""
+
+msgid "to book another appointment."
+msgstr ""
+
+msgid "Select Date & Service"
+msgstr ""
+
+msgid "Your Appointment Date"
+msgstr ""
+
+msgid "Select Service"
+msgstr ""
+
+msgid "Next"
+msgstr ""
+
+msgid "Loading..."
+msgstr ""
+
+msgid "Select Time & Fill Out Form"
+msgstr ""
+
+msgid "Sorry! No time available today."
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Available Time For"
+msgstr ""
+
+msgid "On"
+msgstr ""
+
+msgid "Name"
+msgstr ""
+
+msgid "Email"
+msgstr ""
+
+msgid "Phone"
+msgstr ""
+
+msgid "Eg: 1234567890"
+msgstr ""
+
+msgid "Special Instruction"
+msgstr ""
+
+msgid "Book Now"
+msgstr ""
+
+msgid "Scheduling your appointment please wait..."
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "Sun"
+msgstr ""
+
+msgid "Mon"
+msgstr ""
+
+msgid "Tue"
+msgstr ""
+
+msgid "Fri"
+msgstr ""
+
+msgid "Day"
+msgstr ""
+
+msgid "Week"
+msgstr ""
+
+msgid "Month"
+msgstr ""
+
+msgid "Booked"
+msgstr ""
+
+msgid "Invalid Name"
+msgstr ""
+
+msgid "Invalid Email"
+msgstr ""
+
+msgid ""
+"Thank you for scheduling appointment with us. A confirmation mail will be "
+"forward to you soon after admin approval."
+msgstr ""
+
+msgid "Sorry! Today's all appointments has been booked."
+msgstr ""
+
+msgid "Appointment Calendar"
+msgstr ""
+
+msgid "Service"
+msgstr ""
+
+msgid "Time Off"
+msgstr ""
+
+msgid "Manage Appointments"
+msgstr ""
+
+msgid "Notification Settings"
+msgstr ""
+
+msgid "Remove Plugin"
+msgstr ""
+
+msgid "Get Premium Version"
+msgstr ""
+
+msgid "Help & Support"
+msgstr ""
+
+msgid ""
+"Appointment Calendar Plugin has been successfully removed. It can be re-"
+"activated from the "
+msgstr ""
+
+msgid "Plugins Page"
+msgstr ""
+
+msgid "Remove Appointment Calendar Plugin"
+msgstr ""
+
+msgid ""
+"This operation wiil delete all Appointment Calendar data & settings. If you "
+"continue, You will not be able to retrieve or restore your appointments "
+"entries."
+msgstr ""
+
+msgid ""
+"Warning! Appointment Calendar data & settings, including appointment entries "
+"will be deleted. This cannot be undone. OK to delete, CANCEL to stop"
+msgstr ""
+
+msgid "REMOVE PLUGIN"
+msgstr ""
+
+msgid "Eg : 1234567890"
+msgstr ""
+
+msgid "Scheduling appointment please wait..."
+msgstr ""
+
+msgid "Booked By"
+msgstr ""
+
+msgid "Name cannot be blank."
+msgstr ""
+
+msgid "Email cannot be blank."
+msgstr ""
+
+msgid "Invalid email."
+msgstr ""
+
+msgid "Phone cannot be blank."
+msgstr ""
+
+msgid ""
+"Thank you, appointment has been scheduled. Confirmation mail sent to the "
+"client."
+msgstr ""
+
+msgid "Setect Date & Service"
+msgstr ""
+
+msgid "Select any service"
+msgstr ""
+
+msgid "Appointment Calendar Plugin"
+msgstr ""
+
+msgid "Manage Appointment(s)"
+msgstr ""
+
+msgid "All Appointments"
+msgstr ""
+
+msgid "Pending Appointments"
+msgstr ""
+
+msgid "Apporved Appointments"
+msgstr ""
+
+msgid "Cancelled Appointments"
+msgstr ""
+
+msgid "Today's Appointments"
+msgstr ""
+
+msgid "Filter Appointments"
+msgstr ""
+
+msgid "Filter Appointment(s)"
+msgstr ""
+
+msgid "No."
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Status"
+msgstr ""
+
+msgid "Action"
+msgstr ""
+
+msgid "Select All Appointments"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Do you want to delete this appointment?"
+msgstr ""
+
+msgid "Click to select"
+msgstr ""
+
+msgid "Do you want to delete selected appointments?"
+msgstr ""
+
+msgid "Sorry No Appointments"
+msgstr ""
+
+msgid "Manage Notification Settings"
+msgstr ""
+
+msgid "Enable"
+msgstr ""
+
+msgid "ON/OFF Notification"
+msgstr ""
+
+msgid "Email Type"
+msgstr ""
+
+msgid "Select Type"
+msgstr ""
+
+msgid "WP Mail"
+msgstr ""
+
+msgid "PHP Mail"
+msgstr ""
+
+msgid "SMTP Mail"
+msgstr ""
+
+msgid "Notification Type"
+msgstr ""
+
+msgid "WP Mail Details"
+msgstr ""
+
+msgid "Admin Email"
+msgstr ""
+
+msgid "PHPMail Details"
+msgstr ""
+
+msgid "SMTP Mail Details"
+msgstr ""
+
+msgid "Host Name"
+msgstr ""
+
+msgid "Port Number"
+msgstr ""
+
+msgid "SMTP Port Number"
+msgstr ""
+
+msgid "Admin SMTP Email"
+msgstr ""
+
+msgid "Admin SMTP Email Password"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Select email type"
+msgstr ""
+
+msgid "Enter wp email"
+msgstr ""
+
+msgid "Enter php email"
+msgstr ""
+
+msgid "Enter host name"
+msgstr ""
+
+msgid "Enter port number"
+msgstr ""
+
+msgid "Invalid port number."
+msgstr ""
+
+msgid "Enter email"
+msgstr ""
+
+msgid "Enter password"
+msgstr ""
+
+msgid "Services"
+msgstr ""
+
+msgid "Service Name"
+msgstr ""
+
+msgid "Description"
+msgstr ""
+
+msgid "Service Description"
+msgstr ""
+
+msgid "Duration"
+msgstr ""
+
+msgid "Service Duration.<br>Enter Numeric Value.<br>Eg: 5, 10, 15, 30, 60"
+msgstr ""
+
+msgid "Duration Unit"
+msgstr ""
+
+msgid "Select Duration's Unit"
+msgstr ""
+
+msgid "Minute(s)"
+msgstr ""
+
+msgid "Cost"
+msgstr ""
+
+msgid "Service Cost<br>Enter Numeric Value<br> Eg: 5 , 10, 25, 50, 100, 150"
+msgstr ""
+
+msgid "Availability"
+msgstr ""
+
+msgid "Select Service Availability"
+msgstr ""
+
+msgid "Service Availability"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Select Category"
+msgstr ""
+
+msgid "Service Category"
+msgstr ""
+
+msgid "Create"
+msgstr ""
+
+msgid "New service successfully created."
+msgstr ""
+
+msgid "Service successfully updated."
+msgstr ""
+
+msgid "Description  cannot be blank."
+msgstr ""
+
+msgid "Duration cannot be blank."
+msgstr ""
+
+msgid "Invalid Duration."
+msgstr ""
+
+msgid "Duration will be in multiple of 5, like as: 5, 10, 15, 20, 25."
+msgstr ""
+
+msgid "Select Durations Unit."
+msgstr ""
+
+msgid "Cost cannot be blank."
+msgstr ""
+
+msgid "Invalid cost."
+msgstr ""
+
+msgid "Select availability."
+msgstr ""
+
+msgid "Select category."
+msgstr ""
+
+msgid "Manage Settings"
+msgstr ""
+
+msgid "Calendar Slot Time"
+msgstr ""
+
+msgid "Select Time"
+msgstr ""
+
+msgid "15 Minute"
+msgstr ""
+
+msgid "30 Minute"
+msgstr ""
+
+msgid "60 Minute"
+msgstr ""
+
+msgid "Calendar Time Slot"
+msgstr ""
+
+msgid "Day Start Time"
+msgstr ""
+
+msgid "Select Start Time"
+msgstr ""
+
+msgid "Calendar Day Start Time"
+msgstr ""
+
+msgid "Day End Time"
+msgstr ""
+
+msgid "Select End Time"
+msgstr ""
+
+msgid "Calendar Day End Time"
+msgstr ""
+
+msgid "Calendar View"
+msgstr ""
+
+msgid "Select View"
+msgstr ""
+
+msgid "Calendar First Day"
+msgstr ""
+
+msgid "Select Start Day"
+msgstr ""
+
+msgid "Booking Button Text"
+msgstr ""
+
+msgid "Booking Time Slot"
+msgstr ""
+
+msgid "5 Minutes"
+msgstr ""
+
+msgid "10 Minutes"
+msgstr ""
+
+msgid "15 Minutes"
+msgstr ""
+
+msgid "20 Minutes"
+msgstr ""
+
+msgid "25 Minutes"
+msgstr ""
+
+msgid "30 Minutes"
+msgstr ""
+
+msgid "35 Minutes"
+msgstr ""
+
+msgid "40 Minutes"
+msgstr ""
+
+msgid "45 Minutes"
+msgstr ""
+
+msgid "60 Minutes (1 Hour)"
+msgstr ""
+
+msgid "75 Minutes"
+msgstr ""
+
+msgid "90 Minutes"
+msgstr ""
+
+msgid "120 Minutes (2 Hour)"
+msgstr ""
+
+msgid "150 Minutes"
+msgstr ""
+
+msgid "180 Minutes (3 Hour)"
+msgstr ""
+
+msgid "210 Minutes"
+msgstr ""
+
+msgid "240 Minutes (4 Hour)"
+msgstr ""
+
+msgid "270 Minutes"
+msgstr ""
+
+msgid "300 Minutes (5 Hour)"
+msgstr ""
+
+msgid "Select slot time."
+msgstr ""
+
+msgid "Select start time."
+msgstr ""
+
+msgid "Select end time."
+msgstr ""
+
+msgid "Select calendar view."
+msgstr ""
+
+msgid "Select calendar start day."
+msgstr ""
+
+msgid "Notification"
+msgstr ""
+
+msgid "ON"
+msgstr ""
+
+msgid "OFF"
+msgstr ""
+
+msgid "Not Available"
+msgstr ""
+
+msgid "Details"
+msgstr ""
+
+msgid "WP Email"
+msgstr ""
+
+msgid "PHP Email"
+msgstr ""
+
+msgid "Notification settings successfully updated."
+msgstr ""
+
+msgid "Save"
+msgstr ""
+
+msgid "Rename Category"
+msgstr ""
+
+msgid "Rename"
+msgstr ""
+
+msgid "Do you want to delete this Category?"
+msgstr ""
+
+msgid "Do you want to delete this service?"
+msgstr ""
+
+msgid "Add New Service to this Category"
+msgstr ""
+
+msgid "+ Add New Service to this Category"
+msgstr ""
+
+msgid "Create New Service Category"
+msgstr ""
+
+msgid "Service Category name "
+msgstr ""
+
+msgid "Create Category"
+msgstr ""
+
+msgid "Invalid group name"
+msgstr ""
+
+msgid "Group name cannot be blank."
+msgstr ""
+
+msgid "Category name cannot be blank."
+msgstr ""
+
+msgid "Invalid category name."
+msgstr ""
+
+msgid "Not Available."
+msgstr ""
+
+msgid "Calendar Start Day"
+msgstr ""
+
+msgid "Settings successfully updated"
+msgstr ""
+
+msgid "Select All"
+msgstr ""
+
+msgid "Do you want to delete this time off?"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "Do you want to delete all Time Off"
+msgstr ""
+
+msgid "All Day Time Off"
+msgstr ""
+
+msgid "Start Time"
+msgstr ""
+
+msgid "End Time"
+msgstr ""
+
+msgid "Particular Date(s)"
+msgstr ""
+
+msgid "Daily"
+msgstr ""
+
+msgid "Weekly"
+msgstr ""
+
+msgid "Bi-Weekly"
+msgstr ""
+
+msgid "Monthly"
+msgstr ""
+
+msgid "Repeat Day(s)"
+msgstr ""
+
+msgid "Repeat Week(s)"
+msgstr ""
+
+msgid "Repeat Bi-Week(s)"
+msgstr ""
+
+msgid "Repeat Month(s)"
+msgstr ""
+
+msgid "Start Date"
+msgstr ""
+
+msgid "End Date"
+msgstr ""
+
+msgid "Create Time Off"
+msgstr ""
+
+msgid "Time-off successfully added."
+msgstr ""
+
+msgid "Time-off successfully deleted."
+msgstr ""
+
+msgid "Selected Time-off successfully deleted."
+msgstr ""
+
+msgid "No time-off selected to delete."
+msgstr ""
+
+msgid "This field required."
+msgstr ""
+
+msgid "Start-time and End-time cant be equal."
+msgstr ""
+
+msgid "Start-time must be smaller then End-time."
+msgstr ""
+
+msgid "End-time must be bigger then Start-time."
+msgstr ""
+
+msgid "Update Appointment(s)"
+msgstr ""
+
+msgid "Client Name"
+msgstr ""
+
+msgid "Client Email"
+msgstr ""
+
+msgid "Client Phone Number"
+msgstr ""
+
+msgid "Appointment Start Time"
+msgstr ""
+
+msgid "Appointment End Time"
+msgstr ""
+
+msgid "Appointment Date"
+msgstr ""
+
+msgid "Appointment Description"
+msgstr ""
+
+msgid "Pending"
+msgstr ""
+
+msgid "Approved"
+msgstr ""
+
+msgid "Cancelled"
+msgstr ""
+
+msgid "Appointment Status"
+msgstr ""
+
+msgid "Appointment By"
+msgstr ""
+
+msgid "Admin"
+msgstr ""
+
+msgid "User"
+msgstr ""
+
+msgid "Appointment Booked By"
+msgstr ""
+
+msgid "Email field cannot be blank."
+msgstr ""
+
+msgid "Invalid email address."
+msgstr ""
+
+msgid "Phone field cannot be blank."
+msgstr ""
+
+msgid "Invalid Phone number."
+msgstr ""
+
+msgid "Start Time  cannot be blank."
+msgstr ""
+
+msgid "End Time cannot be blank."
+msgstr ""
+
+msgid "Start Date cannot be blank."
+msgstr ""
+
+msgid "Appointment successfully updated."
+msgstr ""
+
+msgid "View Appointment(s)"
+msgstr ""
+
+msgid "Appointment Key"
+msgstr ""
+
+msgid "Update Time Off"
+msgstr ""
+
+msgid "Repeat Weeks(s)"
+msgstr ""
+
+msgid "Time-off successfully updated."
+msgstr ""
+
+msgid "Time Off deleted successfully."
+msgstr ""
+
+msgid "Shedule New Appointment"
+msgstr ""
+
+msgid "Done Appointments"
+msgstr ""
+
+msgid "Smtp Post Number"
+msgstr ""
+
+msgid "Invalid gruop name"
+msgstr ""
+
+msgid "Gruop name cannot be blank."
+msgstr ""
+
+msgid "Star Time"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid ""
+"<strong>Appointment Calendar Lite</strong> is a simple but effective plugin "
+"which enables you to take appointments on your wordpress blog."
+msgstr ""
+
+msgid ""
+"If you are a consultant/doctor/lawyer etc, you can harness the power of "
+"appointment calendar."
+msgstr ""
+
+msgid ""
+"Simply unzip and upload appointment-calendar directory to /wp-content/"
+"plugins/ directory and activate the plugin."
+msgstr ""
+
+msgid ""
+"To insert Appointment Calendar into any post or page, use the shortcode:"
+msgstr ""
+
+msgid "Appointment Calendar shortcode for Mobile Devices:"
+msgstr ""
+
+msgid ""
+"That's it, you can now start taking appointments on your wordpress site."
+msgstr ""
+
+msgid "<strong>WordPress Forum Support:</strong>"
+msgstr ""
+
+msgid "WordPress Forum Support"
+msgstr ""
+
+msgid "HERE"
+msgstr ""
+
+msgid "Documentation For Appointment Calendar Plugin"
+msgstr ""
+
+msgid "AppointZilla : Appointment Scheduling Plugin For Wordpress"
+msgstr ""
+
+msgid "AppointZilla"
+msgstr ""
+
+msgid "Minute(S)"
+msgstr ""
+
+msgid "Minutes"
+msgstr ""
+
+msgid "Repeat Bi-Weeks(s)"
+msgstr ""
+
+msgid "Invalid field value."
+msgstr ""
+
+msgid "Invalid value."
+msgstr ""
+
+msgid "Step-1. Select Time & Service"
+msgstr ""
+
+msgid "Your Appointment Date:"
+msgstr ""
+
+msgid "Select Service:"
+msgstr ""
+
+msgid "Loading Staff..."
+msgstr ""
+
+msgid "Select Staff:"
+msgstr ""
+
+msgid "Step-3. Fill Up Your`s Details"
+msgstr ""
+
+msgid "Your Appointment Details"
+msgstr ""
+
+msgid "Staff"
+msgstr ""
+
+msgid "Payment received and your appointment has been confirmed."
+msgstr ""
+
+msgid "Thank you sheduling appointment with us."
+msgstr ""
+
+msgid "Sorry! Your appointment not successfull."
+msgstr ""
+
+msgid "Sorry! Your appointment not successful."
+msgstr ""
+
+msgid "Sorry! Appointment can't be booked for past dates."
+msgstr ""
+
+msgid "Appointment Calendar Premium Powered By:"
+msgstr ""
+
+msgid "Appointment Scheduling Plugin For Wordpress"
+msgstr ""
+
+msgid "Your Appointments"
+msgstr ""
+
+msgid "Client"
+msgstr ""
+
+msgid "Step-2. Select Service Time"
+msgstr ""
+
+msgid "Capacity Per Time Slot:"
+msgstr ""
+
+msgid "Sorry! Today all appointments has been booked with this service."
+msgstr ""
+
+msgid "Sorry! Today business is closed."
+msgstr ""
+
+msgid "Sorry! Today this staff not available or business close."
+msgstr ""
+
+msgid "Start Time:"
+msgstr ""
+
+msgid "Invalid Start Time. Start Time should be less than End Time."
+msgstr ""
+
+msgid "End Time: "
+msgstr ""
+
+msgid "Invalid End Time. End Time should be greater than Start Time."
+msgstr ""
+
+msgid "Invalid time range."
+msgstr ""
+
+msgid "Repeat Days required"
+msgstr ""
+
+msgid "Repeat Weeks required."
+msgstr ""
+
+msgid "Repeat Months required."
+msgstr ""
+
+msgid "Invalid Date! Start-Date should be less than End-Date."
+msgstr ""
+
+msgid "Client name cannot be blank."
+msgstr ""
+
+msgid "Appointments"
+msgstr ""
+
+msgid "Filter Appointments By Staff"
+msgstr ""
+
+msgid "Select Staff"
+msgstr ""
+
+msgid "Add New Appointment"
+msgstr ""
+
+msgid "Recurring Appointments"
+msgstr ""
+
+msgid "Apply"
+msgstr ""
+
+msgid "Appointments (No Staff Assigned)"
+msgstr ""
+
+msgid "Step-1. Select Date & Service"
+msgstr ""
+
+msgid "Step-2. Select Service Time & Repeat"
+msgstr ""
+
+msgid "Sorry! No Time Available Today."
+msgstr ""
+
+msgid "Particular Dates"
+msgstr ""
+
+msgid "(Min = 1, Max = 99 Days)"
+msgstr ""
+
+msgid "(Min = 1, Max = 99 Weeks)"
+msgstr ""
+
+msgid "(Min = 1, Max = 99 Months)"
+msgstr ""
+
+msgid "This field is required."
+msgstr ""
+
+msgid "Invalid Date"
+msgstr ""
+
+msgid "Admin can create appointments at any time."
+msgstr ""
+
+msgid "Step-3. Fill Up Client Details"
+msgstr ""
+
+msgid "Sheduling Apoointment, Please wait..."
+msgstr ""
+
+msgid "Step-4. Appointment has been scheduled."
+msgstr ""
+
+msgid "Add Client"
+msgstr ""
+
+msgid "Client Name :"
+msgstr ""
+
+msgid "Special Note"
+msgstr ""
+
+msgid "Appointment History"
+msgstr ""
+
+msgid "Do you want to delete this client"
+msgstr ""
+
+msgid "First"
+msgstr ""
+
+msgid "Last"
+msgstr ""
+
+msgid "Do you want to delete clients"
+msgstr ""
+
+msgid "Sorry no Client(s)."
+msgstr ""
+
+msgid "Client successfully deleted."
+msgstr ""
+
+msgid "Seleted client(s) successfully deleted."
+msgstr ""
+
+msgid "No client(s) selected to delete."
+msgstr ""
+
+msgid "Manage Client"
+msgstr ""
+
+msgid "Client Name."
+msgstr ""
+
+msgid "Client Email."
+msgstr ""
+
+msgid "Phone Number."
+msgstr ""
+
+msgid "Client Note."
+msgstr ""
+
+msgid "Client Details"
+msgstr ""
+
+msgid "Client Detailed Appointment History"
+msgstr ""
+
+msgid "All Appointment History"
+msgstr ""
+
+msgid "Appointment Creation Date"
+msgstr ""
+
+msgid "Repeat Type"
+msgstr ""
+
+msgid "Repeat Start Date"
+msgstr ""
+
+msgid "Repeat End Date"
+msgstr ""
+
+msgid "No Appointment For This Client"
+msgstr ""
+
+msgid "is alredy existing."
+msgstr ""
+
+msgid "New client successfully added."
+msgstr ""
+
+msgid "Client details successfully updated."
+msgstr ""
+
+msgid "is alredy existing Client email."
+msgstr ""
+
+msgid "invalid  value."
+msgstr ""
+
+msgid "Phone Number cannot be blank."
+msgstr ""
+
+msgid "Paid`s  Appointments"
+msgstr ""
+
+msgid "Unpaid`s  Appointments"
+msgstr ""
+
+msgid "Select Status"
+msgstr ""
+
+msgid "Updating..."
+msgstr ""
+
+msgid "Appointment successfully deleted."
+msgstr ""
+
+msgid "Selected Appointment(s) successfully deleted."
+msgstr ""
+
+msgid "No Appointment(s) selected to delete."
+msgstr ""
+
+msgid ""
+"Service Duration<br>Enter Numeric Value In Multiple Of 5<br>Eg: 15, 30, 60"
+msgstr ""
+
+msgid "Payment Type"
+msgstr ""
+
+msgid "Assign Staff(s)"
+msgstr ""
+
+msgid "Use CTRL to Select Multiple Staff(s)"
+msgstr ""
+
+msgid "Assign Staff(s) To This Service<br>Use CTRL To Select Multiple Staffs"
+msgstr ""
+
+msgid "New service added successfully."
+msgstr ""
+
+msgid "Service updated successfully."
+msgstr ""
+
+msgid "Capacity cannot be blank."
+msgstr ""
+
+msgid "Invalid capacity."
+msgstr ""
+
+msgid "Percentage ammount cannot be blank."
+msgstr ""
+
+msgid "Assign any staff."
+msgstr ""
+
+msgid "Manage Staff"
+msgstr ""
+
+msgid "Staff Name."
+msgstr ""
+
+msgid "Staff Email."
+msgstr ""
+
+msgid "Experience"
+msgstr ""
+
+msgid "Staff Experience(In year)."
+msgstr ""
+
+msgid "Group Name"
+msgstr ""
+
+msgid "Select Staff Group"
+msgstr ""
+
+msgid "Staff Group Name."
+msgstr ""
+
+msgid "Staff Address."
+msgstr ""
+
+msgid "City"
+msgstr ""
+
+msgid "Staff City."
+msgstr ""
+
+msgid "Assign Service(s)"
+msgstr ""
+
+msgid "Use CTRL to Select Multiple Service(s)"
+msgstr ""
+
+msgid ""
+"Assign Staff(s) To This Service.&lt;br&gt;Use CTRL To Select Multiple Staffs"
+msgstr ""
+
+msgid "View Staff"
+msgstr ""
+
+msgid "Year(s)"
+msgstr ""
+
+msgid "Group name"
+msgstr ""
+
+msgid "is alredy exist."
+msgstr ""
+
+msgid "New Staff"
+msgstr ""
+
+msgid "is successfully added."
+msgstr ""
+
+msgid "Staff details successfully updated."
+msgstr ""
+
+msgid "Staff name cannot be blank."
+msgstr ""
+
+msgid "Invalid  value."
+msgstr ""
+
+msgid "Select any group."
+msgstr ""
+
+msgid "Assign any service."
+msgstr ""
+
+msgid "Time & Date"
+msgstr ""
+
+msgid "Do you want to delete this transaction"
+msgstr ""
+
+msgid "Do you want to delete these transaction"
+msgstr ""
+
+msgid "Transaction successfully deleted."
+msgstr ""
+
+msgid "Selected transaction successfully deleted."
+msgstr ""
+
+msgid "No transaction(s) selected to delete."
+msgstr ""
+
+msgid "Delete Category"
+msgstr ""
+
+msgid "name"
+msgstr ""
+
+msgid "Service category successfully renamed"
+msgstr ""
+
+msgid "Invalid group name."
+msgstr ""
+
+msgid "Service category successfully deleted."
+msgstr ""
+
+msgid "invalid Category name."
+msgstr ""
+
+msgid "Settings Panel"
+msgstr ""
+
+msgid "Business Profile"
+msgstr ""
+
+msgid "Business Hours"
+msgstr ""
+
+msgid "Staff Hours"
+msgstr ""
+
+msgid "Calendar Settings"
+msgstr ""
+
+msgid "Admin Settings"
+msgstr ""
+
+msgid "Notification Message"
+msgstr ""
+
+msgid "Google Calendar"
+msgstr ""
+
+msgid "Payment Settings"
+msgstr ""
+
+msgid "Settings Panel Allows Admin To Manage Following Settings"
+msgstr ""
+
+msgid "Setup 'Business Profile'"
+msgstr ""
+
+msgid "Manage 'Business Working Hours'"
+msgstr ""
+
+msgid "Manage 'Staff Hours'"
+msgstr ""
+
+msgid "Manage 'Calendar Settings'"
+msgstr ""
+
+msgid "Manage 'Aministrator Settings'"
+msgstr ""
+
+msgid "Manage 'Notification Settings'"
+msgstr ""
+
+msgid "Customize 'Notification Message'"
+msgstr ""
+
+msgid "Sync Appointments With 'Google Calendar'"
+msgstr ""
+
+msgid "Rename Group"
+msgstr ""
+
+msgid "Do you want to delete this Group"
+msgstr ""
+
+msgid "Delete Group"
+msgstr ""
+
+msgid "Staff Name"
+msgstr ""
+
+msgid "Do you want to delete this Staff"
+msgstr ""
+
+msgid "Add New Staff to this Group"
+msgstr ""
+
+msgid "+ Add New Staff to this Group"
+msgstr ""
+
+msgid "Create New Staff Group"
+msgstr ""
+
+msgid "Staff Group name"
+msgstr ""
+
+msgid "Create Group"
+msgstr ""
+
+msgid "New staff group successfully created."
+msgstr ""
+
+msgid "Staff group successfully renamed."
+msgstr ""
+
+msgid "Staff group successfully deleted."
+msgstr ""
+
+msgid "Staff successfully deleted."
+msgstr ""
+
+msgid "Appointment Calendar Premium"
+msgstr ""
+
+msgid ""
+"To insert Appointment Calendar Premium Button into any post or page, use the "
+"shortcode:"
+msgstr ""
+
+msgid "AppointZilla Documentation"
+msgstr ""
+
+msgid "Particular Day"
+msgstr ""
+
+msgid "Repeat Week`s"
+msgstr ""
+
+msgid "Repeat Month`s"
+msgstr ""
+
+msgid "Repeat Day`s"
+msgstr ""
+
+msgid "Repeat Bi-week`s"
+msgstr ""
+
+msgid "Updating Appoitnment..."
+msgstr ""
+
+msgid "Update TimeOff"
+msgstr ""
+
+msgid "Updating Time Off..."
+msgstr ""
+
+msgid "Start-date must be smaller then End-date."
+msgstr ""
+
+msgid "End-date must be bigger then Start-date."
+msgstr ""
+
+msgid "Service Name."
+msgstr ""
+
+msgid "staff Name."
+msgstr ""
+
+msgid "Appointment Date."
+msgstr ""
+
+msgid "Appointment Repeat On/OFF."
+msgstr ""
+
+msgid "Appointment Repeat Type."
+msgstr ""
+
+msgid "Appointment Repeat Start Date."
+msgstr ""
+
+msgid "Appointment Repeat End Date."
+msgstr ""
+
+msgid "Appointment Booked By User/Admin."
+msgstr ""
+
+msgid "Appointment Status."
+msgstr ""
+
+msgid "Payment Status"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "Admin settings sucessfully saved."
+msgstr ""
+
+msgid "Country"
+msgstr ""
+
+msgid "Language"
+msgstr ""
+
+msgid "Time Zone"
+msgstr ""
+
+msgid "Currency"
+msgstr ""
+
+msgid "Business Hours successfully updated."
+msgstr ""
+
+msgid "Close Day"
+msgstr ""
+
+msgid "Monday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Monday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Monday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Tuesday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Tuesday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Tuesday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Wednesday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Wednesday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Wednesday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Thursday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Thursday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Thursday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Friday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Friday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Friday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Saturday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Saturday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Saturday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "Sunday's Start-time and End-time can't be equal"
+msgstr ""
+
+msgid "Sunday's Start-time must be smaller then End-time"
+msgstr ""
+
+msgid "Sunday's End-time must be bigger then Start-time"
+msgstr ""
+
+msgid "ERROR! Check Monday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Tuesday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Wednesday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Thursday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Friday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Saturday's Working Hours"
+msgstr ""
+
+msgid "ERROR! Check Sunday's Working Hours"
+msgstr ""
+
+msgid "Business Name"
+msgstr ""
+
+msgid "Owner"
+msgstr ""
+
+msgid "Fax"
+msgstr ""
+
+msgid "Website"
+msgstr ""
+
+msgid "Blog Url"
+msgstr ""
+
+msgid "Setup Business Profile"
+msgstr ""
+
+msgid "Business  Name."
+msgstr ""
+
+msgid "Owner Name."
+msgstr ""
+
+msgid "Address."
+msgstr ""
+
+msgid "City."
+msgstr ""
+
+msgid "State."
+msgstr ""
+
+msgid "Fax Number."
+msgstr ""
+
+msgid "Email."
+msgstr ""
+
+msgid "Business Website URL."
+msgstr ""
+
+msgid "Blog URL."
+msgstr ""
+
+msgid "Business profile successfully created."
+msgstr ""
+
+msgid "Business profile successfully updated."
+msgstr ""
+
+msgid "No updates made."
+msgstr ""
+
+msgid "Business name cannot be blank."
+msgstr ""
+
+msgid "Owner name cannot be blank."
+msgstr ""
+
+msgid "Address cannot be blank."
+msgstr ""
+
+msgid "City cannot be blank."
+msgstr ""
+
+msgid "State cannot be blank."
+msgstr ""
+
+msgid "Postal code cannot be blank."
+msgstr ""
+
+msgid "Calendar settings sucessfully saved."
+msgstr ""
+
+msgid "Time Format"
+msgstr ""
+
+msgid "Google Calendar Client ID"
+msgstr ""
+
+msgid "Google Calendar Secret Key"
+msgstr ""
+
+msgid "Allow Google Calendar Sync"
+msgstr ""
+
+msgid "Connecting..."
+msgstr ""
+
+msgid "Manage Admin Settings"
+msgstr ""
+
+msgid "Your Living Country."
+msgstr ""
+
+msgid "Your Country's Language."
+msgstr ""
+
+msgid "Your Country's Time Zone."
+msgstr ""
+
+msgid "Your Country's Currency."
+msgstr ""
+
+msgid "Select End Time."
+msgstr ""
+
+msgid "Manage Calendar Settings"
+msgstr ""
+
+msgid "Enable Notification."
+msgstr ""
+
+msgid "Notification Type."
+msgstr ""
+
+msgid "Host Name Like eg: smtp.gmail.com, smtp.yahoo.com."
+msgstr ""
+
+msgid "Smtp Port Number Like eg: Gmail & Yahoo Port Number = 465."
+msgstr ""
+
+msgid "Manage Payment Settings"
+msgstr ""
+
+msgid "Select Payment Gateway"
+msgstr ""
+
+msgid "Payment Email"
+msgstr ""
+
+msgid "Select payment gateway."
+msgstr ""
+
+msgid "Manage Reminder Settings"
+msgstr ""
+
+msgid "Reminder Type"
+msgstr ""
+
+msgid "Select Reminder Type"
+msgstr ""
+
+msgid "Select Reminder Frequency"
+msgstr ""
+
+msgid "You can use these Tags in message subject & body"
+msgstr ""
+
+msgid "Appointment Time"
+msgstr ""
+
+msgid "Appointment Note"
+msgstr ""
+
+msgid "Blog Name"
+msgstr ""
+
+msgid "Select reminder type."
+msgstr ""
+
+msgid "Notify Client On New Appointment"
+msgstr ""
+
+msgid "Subject"
+msgstr ""
+
+msgid "Body"
+msgstr ""
+
+msgid "You can use these Tags in message body"
+msgstr ""
+
+msgid "Client Phone"
+msgstr ""
+
+msgid "Client Special Instruction"
+msgstr ""
+
+msgid "Notify Admin On New Appointment"
+msgstr ""
+
+msgid "Notify Client On Approve/Cancel Appointment"
+msgstr ""
+
+msgid "Notify Client On New Appointment Message sucessfully updated."
+msgstr ""
+
+msgid "Notify Admin On New Appointment Message sucessfully updated."
+msgstr ""
+
+msgid ""
+"Notify Client On Approve/Cancel Appointment Message sucessfully updated."
+msgstr ""
+
+msgid "Payment setting successfully saved"
+msgstr ""
+
+msgid "Reminder settings successfully saved"
+msgstr ""
+
+msgid "Reminder setting successfully updated"
+msgstr ""
+
+msgid "Staff hours suceccfully saved."
+msgstr ""
+
+msgid "Loading staff hours..."
+msgstr ""
+
+msgid "Staff hours suceccfully updated."
+msgstr ""
+
+msgid "Schedule An Appointment"
+msgstr ""
+
+msgid "with"
+msgstr ""
+
+msgid "Sorry! Today`s all appointments has been booked."
+msgstr ""
+
+msgid "Support & Help"
+msgstr ""
+
+msgid "Duration Unit."
+msgstr ""
+
+msgid "Experience cannot be blank."
+msgstr ""
+
+msgid "Zipcode"
+msgstr ""
+
+msgid "Zip Number."
+msgstr ""
+
+msgid "Zipcode cannot be blank."
+msgstr ""
+
+msgid "Website cannot be blank."
+msgstr ""
+
+msgid "Invalid url."
+msgstr ""
+
+msgid "Invalid blog url."
+msgstr ""
+
+msgid "Google Email"
+msgstr ""
+
+msgid "Google Email Password"
+msgstr ""
+
+msgid "Manage Google Calendar"
+msgstr ""
+
+msgid "Time Zone "
+msgstr ""
+
+msgid "Google calendar setting successfully saved"
+msgstr ""
+
+msgid "Google email cannot be blank."
+msgstr ""
+
+msgid "invalid google email."
+msgstr ""
+
+msgid "Google email password cannot be blank."
+msgstr ""
+
+msgid "Calendar View."
+msgstr ""
+
+msgid "Calendar First Day."
+msgstr ""
+
+msgid "Appointment Created On"
+msgstr ""
+
+msgid "Staff category successfully deleted."
+msgstr ""
+
+msgid "Appointment"
+msgstr ""
+
+msgid "Do you want to delete this Clients"
+msgstr ""
+
+msgid "All Day Event"
+msgstr ""
+
+msgid "Manage Service"
+msgstr ""
